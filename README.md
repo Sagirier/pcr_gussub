@@ -1,0 +1,1 @@
+这是一款PCR猜角色ub的插件，基于HoshinoV2
