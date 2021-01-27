@@ -11,7 +11,7 @@
 
 5、重启Hoshinobot；
 
-食用方法：
+# 食用方法
 
 [cygames] 猜猜随机的"cygames"语音来自哪位角色
 
